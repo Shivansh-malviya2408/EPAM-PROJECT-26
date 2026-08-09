@@ -9,6 +9,7 @@ class Node {
     }
 }
 
+
 class Tree {
     Node root;
     int K;
@@ -37,7 +38,7 @@ class Tree {
     }
 }
 
-public class question1 {
+public class Question1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
